@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: "2023-04-07"
+date: "2023-03-25"
 ---
 
 ### Hi there, I am Renata, Front-End Developer from Poland: 👋
