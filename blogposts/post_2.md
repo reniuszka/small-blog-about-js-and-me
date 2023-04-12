@@ -1,6 +1,6 @@
 ---
 title: "JS - post 2"
-date: "2023-04-09"
+date: "2023-04-02"
 ---
 
 ### I am reading JS series written by Kyles Simpson - You Don't Know JS Yet
